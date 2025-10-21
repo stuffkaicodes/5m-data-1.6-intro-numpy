@@ -21,7 +21,7 @@ Write a Python code to multiply each element in the array by 2.
 Answer:
 
 ```python
-
+arr = arr * 2 
 ```
 
 ### Question 2
@@ -37,7 +37,7 @@ Write a Python code to select the second row of the array.
 Answer:
 
 ```python
-
+select = arr[1:2, ::]
 ```
 
 ### Question 3
